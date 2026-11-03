@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/regio/Downloads/BaoHanhLinhKien/WarrantyManagement/src/java/com/warranty/dao/CatalogDAO.java</file>
+            <file>file:/C:/Users/regio/Downloads/BaoHanhLinhKien/WarrantyManagement/src/java/com/warranty/service/TicketService.java</file>
+            <file>file:/C:/Users/regio/Downloads/BaoHanhLinhKien/WarrantyManagement/src/java/com/warranty/controller/BaseServlet.java</file>
+            <file>file:/C:/Users/regio/Downloads/BaoHanhLinhKien/WarrantyManagement/src/java/com/warranty/model/Codes.java</file>
+            <file>file:/C:/Users/regio/Downloads/BaoHanhLinhKien/WarrantyManagement/src/java/com/warranty/service/Tx.java</file>
+            <file>file:/C:/Users/regio/Downloads/BaoHanhLinhKien/WarrantyManagement/src/java/com/warranty/dao/NotificationDAO.java</file>
+            <file>file:/C:/Users/regio/Downloads/BaoHanhLinhKien/WarrantyManagement/src/java/com/warranty/controller/AdminServlet.java</file>
+            <file>file:/C:/Users/regio/Downloads/BaoHanhLinhKien/WarrantyManagement/src/java/com/warranty/service/BusinessException.java</file>
+            <file>file:/C:/Users/regio/Downloads/BaoHanhLinhKien/WarrantyManagement/src/java/com/warranty/service/OrderService.java</file>
+            <file>file:/C:/Users/regio/Downloads/BaoHanhLinhKien/WarrantyManagement/src/java/com/warranty/controller/AuthServlet.java</file>
+            <file>file:/C:/Users/regio/Downloads/BaoHanhLinhKien/WarrantyManagement/src/java/com/warranty/controller/LookupServlet.java</file>
+            <file>file:/C:/Users/regio/Downloads/BaoHanhLinhKien/WarrantyManagement/src/java/com/warranty/dao/DBContext.java</file>
+            <file>file:/C:/Users/regio/Downloads/BaoHanhLinhKien/WarrantyManagement/src/java/com/warranty/service/InventoryService.java</file>
+            <file>file:/C:/Users/regio/Downloads/BaoHanhLinhKien/WarrantyManagement/src/java/com/warranty/controller/TicketServlet.java</file>
+            <file>file:/C:/Users/regio/Downloads/BaoHanhLinhKien/WarrantyManagement/src/java/com/warranty/controller/OrderServlet.java</file>
+            <file>file:/C:/Users/regio/Downloads/BaoHanhLinhKien/WarrantyManagement/src/java/com/warranty/service/CatalogService.java</file>
+        </group>
+    </open-files>
+</project-private>
